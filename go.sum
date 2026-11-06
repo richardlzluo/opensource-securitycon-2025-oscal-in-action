@@ -22,8 +22,6 @@ github.com/cenkalti/backoff/v5 v5.0.3 h1:ZN+IMa753KfX5hd8vVaMixjnqRZ3y8CuJKRKj1x
 github.com/cenkalti/backoff/v5 v5.0.3/go.mod h1:rkhZdG3JZukswDf7f0cwqPNk4K0sa+F97BxZthm/crw=
 github.com/cespare/xxhash/v2 v2.3.0 h1:UL815xU9SqsFlibzuggzjXhog7bL6oX9BbNZnL2UFvs=
 github.com/cespare/xxhash/v2 v2.3.0/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
-github.com/complytime/complybeacon/proofwatch v0.0.0-20251006214856-2974e0bfaedb h1:TcJYqKYXPSsWItrXCgw1uuQCZcOuFr2nTIAsy/LaUSE=
-github.com/complytime/complybeacon/proofwatch v0.0.0-20251006214856-2974e0bfaedb/go.mod h1:Rmn06XcE1LTPxPfsbEh/BJZCVnOvYFMkos+Qa15JCAA=
 github.com/complytime/gemara2oscal v0.0.0-20251205083852-9997fdc98ba6 h1:cN3QUCZT4a4E5c/k6jFRY1L8qUtj42jUHn6toSaQbXA=
 github.com/complytime/gemara2oscal v0.0.0-20251205083852-9997fdc98ba6/go.mod h1:bZBFDgPWw34ruwsEgJmTTmWNimMTb0s+yTSTSb71SGc=
 github.com/cpuguy83/go-md2man/v2 v2.0.6/go.mod h1:oOW0eioCTA6cOiMLiUPZOpcVxMig6NIQQ7OS05n1F4g=
@@ -89,6 +87,8 @@ github.com/inconshreveable/mousetrap v1.1.0 h1:wN+x4NVGpMsO7ErUn/mUI3vEoE6Jt13X2
 github.com/inconshreveable/mousetrap v1.1.0/go.mod h1:vpF70FUmC8bwa3OWnCshd2FqLfsEA9PFc4w1p2J65bw=
 github.com/jhump/protoreflect v1.17.0 h1:qOEr613fac2lOuTgWN4tPAtLL7fUSbuJL5X5XumQh94=
 github.com/jhump/protoreflect v1.17.0/go.mod h1:h9+vUUL38jiBzck8ck+6G/aeMX8Z4QUY/NiJPwPNi+8=
+github.com/jpower432/complybeacon/proofwatch v0.0.0-20251025220139-6a28e31cefff h1:5N1kdPrPZY+ZmYgVS6lEn1cA9EXIEMezO3Gm0kD0X6I=
+github.com/jpower432/complybeacon/proofwatch v0.0.0-20251025220139-6a28e31cefff/go.mod h1:C4T30gU7oJG7O33XV1Q6opq0RAt5ys08ucTy8fX25+8=
 github.com/klauspost/asmfmt v1.3.2 h1:4Ri7ox3EwapiOjCki+hw14RyKk201CN4rzyCJRFLpK4=
 github.com/klauspost/asmfmt v1.3.2/go.mod h1:AG8TuvYojzulgDAMCnYn50l/5QV3Bs/tp6j0HLHbNSE=
 github.com/klauspost/compress v1.18.0 h1:c/Cqfb0r+Yi+JtIEq73FWXVkRonBlf0CRNYc8Zttxdo=
