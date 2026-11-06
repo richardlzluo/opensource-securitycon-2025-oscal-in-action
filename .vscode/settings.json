@@ -1,0 +1,24 @@
+{
+  // Go
+  "go.toolsManagement.autoUpdate": true,
+  "go.testFlags": ["-v"],
+  "[go]": {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": { "source.organizeImports": "explicit" }
+  },
+
+  // Rego (extension: tsandall.opa)
+  "opa.dependency_paths.opa": "opa",
+  "opa.roots": ["${workspaceFolder}/checks"],
+  "[rego]": { "editor.formatOnSave": true },
+
+  // Terraform (extension: hashicorp.terraform)
+  "[terraform]": { "editor.formatOnSave": true },
+
+  // Hide generated pipeline output
+  "files.exclude": {
+    "c2p-plugins/": true,
+    "policies/": true,
+    "policy-results/": true
+  }
+}

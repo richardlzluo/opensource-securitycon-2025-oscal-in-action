@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "golang.go",
+    "tsandall.opa",
+    "hashicorp.terraform",
+    "redhat.vscode-yaml"
+  ]
+}
