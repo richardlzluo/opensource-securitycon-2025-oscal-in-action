@@ -16,9 +16,9 @@
   "[terraform]": { "editor.formatOnSave": true },
 
   // Hide generated pipeline output
-  "files.exclude": {
-    "c2p-plugins/": true,
-    "policies/": true,
-    "policy-results/": true
-  }
+  //"files.exclude": {
+  //  "c2p-plugins/": true,
+  //  "policies/": true,
+  //  "policy-results/": true
+  //}
 }
